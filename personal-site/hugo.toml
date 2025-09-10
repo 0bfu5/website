@@ -1,3 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Christopher Wiggins Personal Site'
+
+theme = 'terminal'
